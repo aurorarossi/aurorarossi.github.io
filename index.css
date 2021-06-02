@@ -89,8 +89,8 @@ body {
 
 #profile_img_blog {
   border-radius: 50%;
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
   background-size: cover !important;
   background-repeat: no-repeat;
 }
@@ -558,13 +558,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://www.colorhexa.com/00ff00.png");
+    url("https://www.colorhexa.com/03648b.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://www.colorhexa.com/00ff00.png") center center fixed;
+    url("https://www.colorhexa.com/03648b.png") center center fixed;
   --height: 50vh;
 }
 
@@ -595,6 +595,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://www.colorhexa.com/00ff00.png") !important;
+      url("https://www.colorhexa.com/03648b.png") !important;
   }
 }
