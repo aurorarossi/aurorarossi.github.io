@@ -20,8 +20,8 @@ Thesis: "The Hyperbolic Model and the Temporal Small Worldness of Brain Dynamics
 Advisors : [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
 *University of Verona, Italy*  
 
--  Erasmus Université Côte d’Azur, France
--  Computational algebra course University of Trento, Italy 
+-  Erasmus, *Université Côte d’Azur, France*
+-  Computational algebra course, *University of Trento, Italy* 
 
 
 #### **Bachelor's degree in Applied Mathematics**  *2017 - 2020*   
