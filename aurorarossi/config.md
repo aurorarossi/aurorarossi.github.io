@@ -16,8 +16,8 @@ generate_rss = true
 website_title = "aurorarossi"
 website_descr = "Aurora Rossi's website"
 website_url   = "https://aurorarossi.github.io/aurorarossi"
+prepath = "aurorarossi"
 +++
-
 <!--
 Add here global latex commands to use throughout your pages.
 -->
