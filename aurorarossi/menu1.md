@@ -30,8 +30,6 @@ Advisor : [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
 *University of Verona, Italy* 
 
 
-#### **Diploma Liceo Scientifico**   *2012 - 2017*   
-*"Marie Curie" High school, Garda, Italy*  
 
 ## Research Experience
 

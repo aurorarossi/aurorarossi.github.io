@@ -6,10 +6,10 @@ title = "Teaching"
  **[Operations Research](https://www.corsi.univr.it/?ent=cs&id=418&menu=studiare&tab=insegnamenti&codiceCs=S20&codins=10120&crediti=6.0&aa=2020/2021&lang=en) Tutor** *March 2021 - September 2022*  \
 Supervisor: [Romeo Rizzi](https://profs.sci.univr.it/~rrizzi/)  \
 Contributions:
-- [online exams](https://github.com/romeorizzi/esami-RO-public)
+- [online exams main repository](https://github.com/romeorizzi/esami-RO-public)
 - [testing repository](https://github.com/romeorizzi/ROexamTesting)
-- [](https://github.com/romeorizzi/eduProblemsDesign)
-- [](https://github.com/romeorizzi/eduexams)
+- [design new problems repository](https://github.com/romeorizzi/eduProblemsDesign)
+- [official design repository](https://github.com/romeorizzi/eduexams)
 - [downloading and uploading exams](https://github.com/romeorizzi/download_upload)
 
 **Year 2021-2022**   \
