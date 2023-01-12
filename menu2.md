@@ -11,8 +11,10 @@ Aurora Rossi, [Pierluigi Crescenzi](https://www.pilucrescenzi.it/),  [Samuel Des
 *[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting 2022, Antibes, France*  \
 
 ## Talks
-**[COATI](https://team.inria.fr/coati/) seminar** *13rd July 2022*  \
-["Temporal Brain Networks: bridging Theory and Real Data"](https://www.dropbox.com/s/kdacixjmbyex6lq/COATISeminar_compressed.pdf?dl=0)
 
 **[Julia day](https://project.inria.fr/jjinria/) at Inria** *12nd January 2023*  \
 ["Presentation of WorldDynamics.jl"](https://www.dropbox.com/s/k2diduuny307ivp/worlddynamics_juliahalf-day.pdf?dl=0)
+
+**[COATI](https://team.inria.fr/coati/) seminar** *13rd July 2022*  \
+["Temporal Brain Networks: bridging Theory and Real Data"](https://www.dropbox.com/s/kdacixjmbyex6lq/COATISeminar_compressed.pdf?dl=0)
+
