@@ -6,9 +6,13 @@ tags = ["syntax", "code"]
 
 ## Publications
 
-**Conference paper**
+**Conference paper** *February 20th - 23rd 2023* \
+[Un framework open-source écrit en Julia pour la modélisation
+d’évaluation globale intégrée](https://roadef2023.sciencesconf.org/436893/document) \ 
+[Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Hicham Lesfari](https://hlesfari.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Serafim](https://paulobruno.github.io/) \
+*[ROADEF 2023](https://roadef2023.sciencesconf.org/), Rennes, France* \
 
-**Report**
+**Report** \
 [*"Une implémentation GPU de l’algorithme FlyHash: Des mouches plus rapides pour la fouille de données massives"*](https://hal.science/hal-03987919v1/document) \
 [Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
 
