@@ -5,6 +5,13 @@ tags = ["syntax", "code"]
 +++
 
 ## Publications
+
+**Conference paper**
+
+**Report**
+[*"Une implémentation GPU de l’algorithme FlyHash: Des mouches plus rapides pour la fouille de données massives"*](https://hal.science/hal-03987919v1/document) \
+[Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
+
 **Poster**  *June 30th -July 1st 2022*  \
 [*"Hyperbolic Model Captures Temporal Small Worldness of Brain Dynamics"*](https://hal.archives-ouvertes.fr/hal-03685173/document) \
 Aurora Rossi, [Pierluigi Crescenzi](https://www.pilucrescenzi.it/),  [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
