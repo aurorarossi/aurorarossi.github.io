@@ -8,7 +8,6 @@ tags = ["syntax", "code"]
 #### **PhD in Computer Science** *since 2022*
 Team: [COATI](https://team.inria.fr/coati/)  \
 Supervisor: [David Coudert](http://www-sop.inria.fr/members/David.Coudert/index.shtml)  \
-Co-advisor: [Emanuele Natale](https://natema.github.io/ema-webpage/)  \
 *[DS4H Université Côte d’Azur](https://ds4h.univ-cotedazur.eu/), France*
   
 
