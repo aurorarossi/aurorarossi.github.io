@@ -34,6 +34,16 @@ d’évaluation globale intégrée"*](https://roadef2023.sciencesconf.org/436893
 Aurora Rossi, [Pierluigi Crescenzi](https://www.pilucrescenzi.it/),  [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
 *[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 30th -July 1st 2022, Antibes, France*  \
 
+## Next talks
+
+**Café Julia** *15 September 2023* \
+"Temporal Graph Neural Networks with GraphNeuralNetworks.jl" \
+Register [here](https://indico.mathrice.fr/event/419/)
+
+
+**[JuliaCon](https://juliacon.org/2023/)** *27 July 2023* \
+["Graph alignment problem within GraphsOptim.jl"](https://pretalx.com/juliacon2023/speaker/JYWQL7/)
+
 ## Talks
 
 **[Julia day](https://project.inria.fr/jjinria/) at Inria** *12nd January 2023*  \
