@@ -6,6 +6,12 @@ tags = ["syntax", "code"]
 
 ## Publications
 
+**Submitted journal paper** \
+[*"WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models"*](https://hal.science/hal-04117509v1/document) \
+[Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Bruno Serafim](https://paulobruno.github.io/) \
+*Submitted to [Journal of Open Source Software](https://joss.theoj.org/)* \
+
+
 **Dataset** \
 [*"Temporal Brain Networks"*](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi%3A10.57745%2FPR8VUV) \
 Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
