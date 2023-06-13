@@ -15,6 +15,7 @@ tags = ["syntax", "code"]
 **Dataset** \
 [*"Temporal Brain Networks"*](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi%3A10.57745%2FPR8VUV) \
 Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
+(see also [here](https://recherche.data.gouv.fr/en/dataset/temporal-brain-networks))
 
 
 **Conference paper**  \

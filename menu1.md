@@ -4,6 +4,20 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
+## Experience
+
+#### Google Summer of Code program  
+*May 2023 - August 2023*  \
+Google Summer of Code program with the Julia programming language organization. \
+Project: [*"Extending GraphNeuralNetworks.jl to support Temporal Graphs"*](https://summerofcode.withgoogle.com/archive/2023/projects/vbQaqNYW) \
+Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
+
+
+#### Research internship  
+*February 2022 - September 2022* \
+Working on temporal brain networks  in [COATI](https://team.inria.fr/coati/) and [ATHENA](https://team.inria.fr/athena/) teams at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) \
+Supervisors:  [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en)
+
 ## Education
 #### **PhD in Computer Science** *since 2022*
 Team: [COATI](https://team.inria.fr/coati/)  \
@@ -27,14 +41,3 @@ Advisors : [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Des
 Thesis: "Metodi CFTP applicati a ERGM e confronto con MCMC"  \
 Advisor : [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
 *University of Verona, Italy* 
-
-
-
-## Research Experience
-
-
-
-#### Research internship   *February 2022 - September 2022* 
-
-Working on temporal brain networks  in [COATI](https://team.inria.fr/coati/) and [ATHENA](https://team.inria.fr/athena/) teams at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) \
-Supervisors:  [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en)
