@@ -6,6 +6,12 @@ tags = ["syntax", "code"]
 
 ## Publications
 
+**Poster**    \
+[*"Temporal Brain Networks Dataset"*](https://hal.science/hal-04130380/document) \
+Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
+*[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 28th - 29th 2023, Antibes, France*  \
+
+
 **Submitted journal paper** \
 [*"WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models"*](https://hal.science/hal-04117509v1/document) \
 [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Bruno Serafim](https://paulobruno.github.io/) \
