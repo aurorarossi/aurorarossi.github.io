@@ -6,16 +6,6 @@ tags = ["syntax", "code"]
 
 ## Publications
 
-**Posters**    \
-[*"Temporal Brain Networks Dataset"*](https://hal.science/hal-04130380/document) \
-Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
-*[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 28th - 29th 2023, Antibes, France*  \
-
-
-[*"Hyperbolic Model Captures Temporal Small Worldness of Brain Dynamics"*](https://hal.archives-ouvertes.fr/hal-03685173/document) \
-Aurora Rossi, [Pierluigi Crescenzi](https://www.pilucrescenzi.it/),  [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
-*[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 30th -July 1st 2022, Antibes, France* 
-
 
 **Submitted journal paper** \
 [*"WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models"*](https://hal.science/hal-04117509v1/document) \
@@ -34,7 +24,25 @@ d’évaluation globale intégrée"*](https://roadef2023.sciencesconf.org/436893
 [*"Une implémentation GPU de l’algorithme FlyHash: Des mouches plus rapides pour la fouille de données massives"*](https://hal.science/hal-03987919v1/document) \
 [Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
 
-## Datasets
+
+
+### Posters  
+
+[*"Temporal Graph Neural Networks with GraphNeuralNetworks.jl"*](https://hal.science/hal-04230797/document)\
+Aurora Rossi \
+*[Julia and Optimization Days 2023](https://julia-users-paris.github.io/workshop/en/index.html), October 3rd - 6th, CNAM Paris, France*
+
+
+[*"Temporal Brain Networks Dataset"*](https://hal.science/hal-04130380/document) \
+Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
+*[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 28th - 29th 2023, Antibes, France*  \
+
+
+[*"Hyperbolic Model Captures Temporal Small Worldness of Brain Dynamics"*](https://hal.archives-ouvertes.fr/hal-03685173/document) \
+Aurora Rossi, [Pierluigi Crescenzi](https://www.pilucrescenzi.it/),  [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
+*[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting, June 30th -July 1st 2022, Antibes, France* 
+
+### Datasets
 
 [*"Temporal Brain Networks"*](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi%3A10.57745%2FPR8VUV) \
 Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
