@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 
 **Café Julia** *15th September 2023* \
-"Temporal Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://www.dropbox.com/scl/fi/1noza125sgmm3chb6y2gc/TGNNjl.pdf?rlkey=xhoxhxrwycrlhuw1rztskxzio&dl=0))\
+"Temporal Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://www.dropbox.com/scl/fi/1noza125sgmm3chb6y2gc/TGNNjl.pdf?rlkey=xhoxhxrwycrlhuw1rztskxzio&dl=0),[video](https://www.canal-u.tv/chaines/groupecalcul/graphneuralnetworksjl))\
 
 
 **[JuliaCon](https://juliacon.org/2023/) at MIT** *27th July 2023* \
