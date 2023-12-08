@@ -8,23 +8,25 @@ tags = ["syntax", "code"]
 
 
 **Submitted journal paper** \
+
+
 [*"WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models"*](https://hal.science/hal-04117509v1/document) \
 [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Bruno Serafim](https://paulobruno.github.io/) \
 *Submitted to [Journal of Open Source Software](https://joss.theoj.org/)* \
 
 
 **Conference paper**  \
+
+
+[*"Une implémentation GPU de la méthode de recherche approximative FlyHash"*](https://hal.science/hal-04328529v1/document) \
+[Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
+*[Conference on Artificial Intelligence for Defense](https://caid-conference.eu/), DGA Maîtrise de l'Information, November 22nd and 23rd 2023, Rennes, France* \
+
+
 [*"Un framework open-source écrit en Julia pour la modélisation
 d’évaluation globale intégrée"*](https://roadef2023.sciencesconf.org/436893/document) \
 [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Hicham Lesfari](https://hlesfari.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Serafim](https://paulobruno.github.io/) \
 *[ROADEF 2023](https://roadef2023.sciencesconf.org/), February 20th - 23rd 2023, Rennes, France* \
-
-
-**Report** \
-[*"Une implémentation GPU de l’algorithme FlyHash: Des mouches plus rapides pour la fouille de données massives"*](https://hal.science/hal-03987919v1/document) \
-[Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
-
-
 
 ### Posters  
 

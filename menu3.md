@@ -5,12 +5,18 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+**[Complex Networks](https://complexnetworks.org/) Conference** *29th November 2023* \
+["Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"](https://www.dropbox.com/scl/fi/c7zj4h0hsx5mdld7g2yeo/NullModelBrainDynamicsCNA.pdf?rlkey=iynor4j3g8txq66ir3ctw8sql&dl=0) 
+
+
+
+
 **Google Summer of Code** Contributor Days Lightning Talks *19th September 2023*
 ["Extending GraphNeuralNetworks.jl to support Temporal Graphs"](https://www.dropbox.com/scl/fi/qlckm5ljkhf8abnq6vhj6/GSoC-Lighting-Talk-2023.pdf?rlkey=7jcnaqpf76owd30eeq2kbsga5&dl=0)\
 
 
 **Café Julia** *15th September 2023* \
-"Temporal Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://www.dropbox.com/scl/fi/1noza125sgmm3chb6y2gc/TGNNjl.pdf?rlkey=xhoxhxrwycrlhuw1rztskxzio&dl=0),[video](https://www.canal-u.tv/chaines/groupecalcul/graphneuralnetworksjl))\
+"Temporal Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://www.dropbox.com/scl/fi/1noza125sgmm3chb6y2gc/TGNNjl.pdf?rlkey=xhoxhxrwycrlhuw1rztskxzio&dl=0), [video](https://www.canal-u.tv/chaines/groupecalcul/graphneuralnetworksjl))\
 
 
 **[JuliaCon](https://juliacon.org/2023/) at MIT** *27th July 2023* \
