@@ -18,6 +18,10 @@ tags = ["syntax", "code"]
 **Conference paper**  \
 
 
+[Extended abstract: *"Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"*](https://hal.science/hal-04343066v1/document)\
+Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
+*[Complex Networks Conference](https://complexnetworks.org/), November 28th and 30th 2023, Menton, France*
+
 [*"Une implémentation GPU de la méthode de recherche approximative FlyHash"*](https://hal.science/hal-04328529v1/document) \
 [Arthur da Cunha](https://arthurwalraven.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Damien Rivet, Aurora Rossi \
 *[Conference on Artificial Intelligence for Defense](https://caid-conference.eu/), DGA Maîtrise de l'Information, November 22nd and 23rd 2023, Rennes, France* \
