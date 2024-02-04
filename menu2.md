@@ -18,7 +18,7 @@ tags = ["syntax", "code"]
 **Journal papers** \
 
 
-[*"On null models for temporal small-worldness in brain dynamics"*](https://hal.science/hal-04328529v1/document) \
+[*"On null models for temporal small-worldness in brain dynamics"*](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00357/119098/On-null-models-for-temporal-small-worldness-in) \
 Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
 *[Network Neuroscience](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00357/119098/On-null-models-for-temporal-small-worldness-in), 2024* \
 
