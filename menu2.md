@@ -39,6 +39,11 @@ d’évaluation globale intégrée"*](https://roadef2023.sciencesconf.org/436893
 
 ### Posters  
 
+[*"Simulating Global Dynamics with Integrated Assessment Models"*](https://hal.science/hal-04538563v1/document)\
+ [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), Aurora Rossi \
+*[MOMI2024: Le Monde des Mathematiques Industrielle](https://phd-seminars-sam.inria.fr/momi-2024/), April 8th - 9th, Sophia Antipolis, France*
+
+
 [*"Temporal Graph Neural Networks with GraphNeuralNetworks.jl"*](https://hal.science/hal-04230797/document)\
 Aurora Rossi \
 *[Julia and Optimization Days 2023](https://julia-users-paris.github.io/workshop/en/index.html), October 3rd - 6th, CNAM Paris, France*
