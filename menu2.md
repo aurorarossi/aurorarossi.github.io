@@ -6,6 +6,12 @@ tags = ["syntax", "code"]
 
 ## Publications
 
+**Preprints** \
+
+
+[*"Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"*](https://hal.science/hal-04596845) \
+Aurora Rossi,  Yanis Aeschlimann, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en)
+
 **Journal papers** \
 
 

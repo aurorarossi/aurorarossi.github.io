@@ -5,6 +5,13 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+Invited Talk **[Department of Psychological Science](https://www.bbk.ac.uk/school/psychological-sciences), Birkbeck University** *5th June 2024* \
+["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1AAtpH_x1OX-GMfyOkgwfaHxf4v8UleONncvbxej9-Po/edit?usp=sharing)
+
+
+**[COATI](https://team.inria.fr/coati/) seminar** *21st May 2024*  \
+["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1IRkPmI-3-0SRiJUscFt77Y63cFee1QpAxsrrdkR4nuM/edit?usp=sharing)
+
 **[Complex Networks](https://complexnetworks.org/) Conference** *29th November 2023* \
 ["Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"](https://www.dropbox.com/scl/fi/c7zj4h0hsx5mdld7g2yeo/NullModelBrainDynamicsCNA.pdf?rlkey=iynor4j3g8txq66ir3ctw8sql&dl=0) 
 
@@ -15,7 +22,7 @@ tags = ["syntax", "code"]
 ["Extending GraphNeuralNetworks.jl to support Temporal Graphs"](https://www.dropbox.com/scl/fi/qlckm5ljkhf8abnq6vhj6/GSoC-Lighting-Talk-2023.pdf?rlkey=7jcnaqpf76owd30eeq2kbsga5&dl=0)\
 
 
-**Café Julia** *15th September 2023* \
+Invited talk **Café Julia** *15th September 2023* \
 "Temporal Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://www.dropbox.com/scl/fi/1noza125sgmm3chb6y2gc/TGNNjl.pdf?rlkey=xhoxhxrwycrlhuw1rztskxzio&dl=0), [video](https://www.canal-u.tv/chaines/groupecalcul/graphneuralnetworksjl))\
 
 

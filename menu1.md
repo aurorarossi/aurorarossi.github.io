@@ -6,6 +6,18 @@ tags = ["syntax", "code"]
 
 ## Experience
 
+#### Visiting Ph.D. student
+Department of Psychological Science, Birkbeck University, London, UK \
+*27 May - 14 June 2024*
+
+
+#### Julia Summer of Code program
+*May 2024 - August 2024*  \
+Summer of Code program with the Julia programming language organization funded by NumFOCUS. \
+Project: *"Implementing layers for temporal graphs in GraphNeuralNetworks.jl"* \
+Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
+
+
 #### Google Summer of Code program  
 *May 2023 - August 2023*  \
 Google Summer of Code program with the Julia programming language organization. \
