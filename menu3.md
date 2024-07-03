@@ -5,6 +5,10 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+**[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting**, *4th July 2024* \
+["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1JcDDerMJ8M9mW1-SGqLvymMyZc0Fr19kM8o7tRNv1CQ/edit?usp=sharing)
+
+
 Invited Talk **[Department of Psychological Science](https://www.bbk.ac.uk/school/psychological-sciences), Birkbeck University** *5th June 2024* \
 ["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1AAtpH_x1OX-GMfyOkgwfaHxf4v8UleONncvbxej9-Po/edit?usp=sharing)
 
@@ -14,8 +18,6 @@ Invited Talk **[Department of Psychological Science](https://www.bbk.ac.uk/schoo
 
 **[Complex Networks](https://complexnetworks.org/) Conference** *29th November 2023* \
 ["Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"](https://www.dropbox.com/scl/fi/c7zj4h0hsx5mdld7g2yeo/NullModelBrainDynamicsCNA.pdf?rlkey=iynor4j3g8txq66ir3ctw8sql&dl=0) 
-
-
 
 
 **Google Summer of Code** Contributor Days Lightning Talks *19th September 2023*
