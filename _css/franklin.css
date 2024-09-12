@@ -187,12 +187,12 @@ td {
 }
 
 .franklin-content a {
-  color: #4e93b4;
+  color: #7870DF;
   text-decoration: none;
 }
 
 .franklin-content a:hover {
-  color: #dc0008;
+  color: #DF70A0;
   text-decoration: underline;
 }
 
@@ -333,5 +333,5 @@ code {
   margin-top: 5px;
   margin-bottom: 5px;
   border-radius: 0 10px 10px 0;
-  border-left: 5px solid #4c9cf1;
+  border-left: 5px solid #e89abc;
 }
