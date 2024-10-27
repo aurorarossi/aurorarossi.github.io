@@ -5,6 +5,11 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+### 2024
+
+Invited talk **[Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview)**, *28th October 2024* \
+"An Overview of Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://docs.google.com/presentation/d/1_A9QpTp1WaAYojwB6a8_hV5L4cKwKrgnr12c9AslZZs/edit?usp=sharing), [gist](https://gist.github.com/aurorarossi/6bb82151690ba0c385ebc9f20c4bb00c))
+
 **[NeuroMod](https://neuromod.univ-cotedazur.eu/) Meeting**, *4th July 2024* \
 ["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1JcDDerMJ8M9mW1-SGqLvymMyZc0Fr19kM8o7tRNv1CQ/edit?usp=sharing)
 
@@ -15,6 +20,8 @@ Invited Talk **[Department of Psychological Science](https://www.bbk.ac.uk/schoo
 
 **[COATI](https://team.inria.fr/coati/) seminar** *21st May 2024*  \
 ["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/1IRkPmI-3-0SRiJUscFt77Y63cFee1QpAxsrrdkR4nuM/edit?usp=sharing)
+
+### 2023
 
 **[Complex Networks](https://complexnetworks.org/) Conference** *29th November 2023* \
 ["Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"](https://www.dropbox.com/scl/fi/c7zj4h0hsx5mdld7g2yeo/NullModelBrainDynamicsCNA.pdf?rlkey=iynor4j3g8txq66ir3ctw8sql&dl=0) 
@@ -33,6 +40,8 @@ Invited talk **Café Julia** *15th September 2023* \
 
 **[Julia day](https://project.inria.fr/jjinria/) at Inria** *12nd January 2023*  \
 ["Presentation of WorldDynamics.jl"](https://www.dropbox.com/s/k2diduuny307ivp/worlddynamics_juliahalf-day.pdf?dl=0)
+
+### 2022
 
 **[COATI](https://team.inria.fr/coati/) seminar** *13rd July 2022*  \
 ["Temporal Brain Networks: bridging Theory and Real Data"](https://www.dropbox.com/s/kdacixjmbyex6lq/COATISeminar_compressed.pdf?dl=0)
