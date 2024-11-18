@@ -6,13 +6,12 @@ tags = ["syntax", "code"]
 
 ## Publications
 
-**Preprints** \
-
-
-[*"Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"*](https://hal.science/hal-04596845) \
-Aurora Rossi,  Yanis Aeschlimann, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en)
-
 **Journal papers** \
+
+
+[*"A sensitivity analysis of the Earth for all model: Getting the giant leap scenario with fewer policies"*](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582?af=R) \
+[Pierluigi Crescenzi](https://www.pilucrescenzi.it/), Giorgio Gambosi, Lucia Nasti, [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi \
+*[Journal of Industrial Ecology](https://onlinelibrary.wiley.com/journal/15309290), 2024* \
 
 
 [*"WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models"*](https://joss.theoj.org/papers/10.21105/joss.05772) \
@@ -28,6 +27,10 @@ Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations
 
 **Conference papers**  \
 
+
+[Extended abstract: *"Understanding the Importance of Brain Subnetworks with Shapley Values During Narrative Processing"*](https://hal.science/hal-04343066v1/document)\
+Aurora Rossi,  Yanis Aeschlimann, [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en) \
+*[Complex Networks Conference](https://complexnetworks.org/), December 10th and 12th 2024, Istanbul, Turkey*
 
 [Extended abstract: *"Temporal Hyperbolic Graphs as Null Models for Brain Dynamics"*](https://hal.science/hal-04343066v1/document)\
 Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Emanuele Natale](https://natema.github.io/ema-webpage/) \
