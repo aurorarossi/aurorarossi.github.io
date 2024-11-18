@@ -28,7 +28,7 @@ Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations
 **Conference papers**  \
 
 
-[Extended abstract: *"Understanding the Importance of Brain Subnetworks with Shapley Values During Narrative Processing"*](https://hal.science/hal-04343066v1/document)\
+[Extended abstract: *"Understanding the Importance of Brain Subnetworks with Shapley Values During Narrative Processing"*](https://hal.science/hal-04723178v1/document)\
 Aurora Rossi,  Yanis Aeschlimann, [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en) \
 *[Complex Networks Conference](https://complexnetworks.org/), December 10th and 12th 2024, Istanbul, Turkey*
 
