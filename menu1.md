@@ -12,7 +12,7 @@ Department of Psychological Science, Birkbeck University, London, UK \
 
 
 #### Julia Summer of Code program
-*May 2024 - August 2024*  \
+*May 2024 - November 2024*  \
 Summer of Code program with the Julia programming language organization funded by NumFOCUS. \
 Project: *"Implementing layers for temporal graphs in GraphNeuralNetworks.jl"* \
 Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
