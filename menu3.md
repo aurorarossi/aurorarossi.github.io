@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2024
 
+Invited talk **[M2AI 2024](https://mois-smai.math.cnrs.fr/)**, *28th November 2024* \
+"Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?" ([slides](https://docs.google.com/presentation/d/1CCwR19zU6JWZiVkXiM4qcj9ULqtfkGZF8I6LZF8xR6I/edit?usp=sharing))
+
+
 Invited talk **[Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview)**, *28th October 2024* \
 "An Overview of Graph Neural Networks with GraphNeuralNetworks.jl" ([slides](https://docs.google.com/presentation/d/1_A9QpTp1WaAYojwB6a8_hV5L4cKwKrgnr12c9AslZZs/edit?usp=sharing), [gist](https://gist.github.com/aurorarossi/6bb82151690ba0c385ebc9f20c4bb00c))
 
