@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2024
 
+**[Complex Networks](https://complexnetworks.org/) Conference** *12th December 2024* \
+["Understanding the Importance of Brain Subnetworks with Shapley Values During Narrative Processing"](https://docs.google.com/presentation/d/1xD6qvqDcO89q0gfr8MY5vP6ep8gwQ2-cP4CV3K1pPno/edit?usp=sharing)
+
+
 Invited talk **[M2AI 2024](https://mois-smai.math.cnrs.fr/)**, *28th November 2024* \
 "Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?" ([slides](https://docs.google.com/presentation/d/1CCwR19zU6JWZiVkXiM4qcj9ULqtfkGZF8I6LZF8xR6I/edit?usp=sharing))
 
