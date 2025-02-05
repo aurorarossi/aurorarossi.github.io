@@ -3,6 +3,10 @@ title = "Teaching"
 +++
 ## Teaching
 
+**Operations Research Occasional teacher** *5 February 2025* \
+Hours: 4 \
+*CESI: École d'ingénieurs, Nice, France* 
+
  **[Operations Research](https://www.corsi.univr.it/?ent=cs&id=418&menu=studiare&tab=insegnamenti&codiceCs=S20&codins=10120&crediti=6.0&aa=2020/2021&lang=en) Tutor** *March 2021 - September 2022*  \
 Supervisor: [Romeo Rizzi](https://profs.sci.univr.it/~rrizzi/)  \
 Contributions:

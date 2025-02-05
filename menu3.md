@@ -5,6 +5,11 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+### 2025
+
+**[COATI](https://team.inria.fr/coati/) seminar** *4th February 2025*  \
+["An Introduction to Graph Neural Networks with GraphNeuralNetworks.jl"](https://docs.google.com/presentation/d/10jm_Cdz5ixK4Qz7oQ9scRYFjKB7Uw0opNhuWEbN60kk/edit?usp=sharing)
+
 ### 2024
 
 **[Complex Networks](https://complexnetworks.org/) Conference** *12th December 2024* \
