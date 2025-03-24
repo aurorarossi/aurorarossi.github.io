@@ -1,7 +1,15 @@
 +++
 title = "Teaching"
 +++
-## Teaching
+## Supervision activity
+
+#### Undergraduate students
+
+- [Sayf Eddine Halmi](https://www.linkedin.com/in/sayf-halmi/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
+- [Skander Meziou](https://www.linkedin.com/in/skander-meziou-4600412a7/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
+
+
+## Teaching 
 
 **Operations Research Occasional teacher** *5 February 2025* \
 Hours: 4 \
@@ -16,11 +24,11 @@ Contributions:
 - [official design repository](https://github.com/romeorizzi/eduexams)
 - [downloading and uploading exams](https://github.com/romeorizzi/download_upload)
 
-**Year 2021-2022**   \
+Year 2021-2022   \
 Material: [tutoraggio_RO_2021-2022](https://github.com/aurorarossi/tutoraggio_RO_2021-2022)  \
 Hours: 24
 
-**Year  2020-2021**    \
+Year  2020-2021    \
 Material: [tutoraggio_RO_2020-2021](https://github.com/aurorarossi/tutoraggio_RO_2020-2021)  \
 Hours: 48
 
