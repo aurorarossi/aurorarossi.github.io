@@ -9,6 +9,11 @@ tags = ["syntax", "code"]
 **Journal papers** \
 
 
+*"GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia"* \
+[Carlo Lucibello](https://carlolucibello.github.io/), Aurora Rossi \
+*[Journal of Machine Learning Research](https://www.jmlr.org/), 2025*\
+
+
 [*"A sensitivity analysis of the Earth for all model: Getting the giant leap scenario with fewer policies"*](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582?af=R) \
 [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), Giorgio Gambosi, Lucia Nasti, [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi \
 *[Journal of Industrial Ecology](https://onlinelibrary.wiley.com/journal/15309290), 2024* \
