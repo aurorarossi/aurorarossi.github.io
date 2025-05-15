@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 ## Experience
 
 #### Visiting Ph.D. student
+Murata's Lab, Department of Computer Science, Institute of Science Tokyo, Japan \
+*12 May - 6 July 2025*
+
+#### Visiting Ph.D. student
 Department of Psychological Science, Birkbeck University, London, UK \
 *27 May - 14 June 2024*
 
