@@ -9,7 +9,7 @@ tags = ["syntax", "code"]
 **Journal papers** \
 
 
-*"GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia"* \
+[*"GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia"*](http://jmlr.org/papers/v26/24-2130.html) \
 [Carlo Lucibello](https://carlolucibello.github.io/), Aurora Rossi \
 *[Journal of Machine Learning Research](https://www.jmlr.org/), 2025*\
 
