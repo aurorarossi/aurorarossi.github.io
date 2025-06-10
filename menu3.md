@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+**[Murata's lab](https://www.net.c.titech.ac.jp/index.html) seminar**, *5th June 2025* \
+["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://drive.google.com/file/d/1eFTu9Q_dfU2JKtQtyZKlC7m4loBQn5QA/view)
+
+
 **[COATI](https://team.inria.fr/coati/) seminar** *4th February 2025*  \
 ["An Introduction to Graph Neural Networks with GraphNeuralNetworks.jl"](https://docs.google.com/presentation/d/10jm_Cdz5ixK4Qz7oQ9scRYFjKB7Uw0opNhuWEbN60kk/edit?usp=sharing)
 
