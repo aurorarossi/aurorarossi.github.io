@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+Invited talk **[Algorithmic Aspects of Temporal Graphs ICALP workshop](https://mertzios.net/Workshops/ICALP-25-Satellite/Temporal-Graphs-ICALP-2025.html)**, *8th July 2025* \
+["Temporal graph neural networks and their applications"](https://docs.google.com/presentation/d/1wCIUIYSsmx7P9IG7mhtCXNVj4NhKAe1QXKtRyBz3bE4/edit?usp=sharing)
+
+
 **[Murata's lab](https://www.net.c.titech.ac.jp/index.html) seminar**, *5th June 2025* \
 ["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://drive.google.com/file/d/1eFTu9Q_dfU2JKtQtyZKlC7m4loBQn5QA/view)
 
