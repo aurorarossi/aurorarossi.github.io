@@ -7,8 +7,12 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+Invited talk **[JuliaCon](https://juliacon.org/2025/) at Pitt and CMU**, *25th July 2025* \
+"GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia"([slides](https://docs.google.com/presentation/d/1ocgJj5jGwaa2fCtpL3GwlCl2zlS8MuTkS_P68gwuoAQ/edit?usp=sharing), [video](https://youtu.be/9JWnu5ecET8?t=12629))
+
+
 Invited talk **[Algorithmic Aspects of Temporal Graphs ICALP workshop](https://mertzios.net/Workshops/ICALP-25-Satellite/Temporal-Graphs-ICALP-2025.html)**, *8th July 2025* \
-["Temporal graph neural networks and their applications"](https://docs.google.com/presentation/d/1wCIUIYSsmx7P9IG7mhtCXNVj4NhKAe1QXKtRyBz3bE4/edit?usp=sharing)
+"Temporal graph neural networks and their applications"([slides](https://docs.google.com/presentation/d/1wCIUIYSsmx7P9IG7mhtCXNVj4NhKAe1QXKtRyBz3bE4/edit?usp=sharing), [video](https://www.youtube.com/watch?v=FyT0Jn20zBM))
 
 
 **[Murata's lab](https://www.net.c.titech.ac.jp/index.html) seminar**, *5th June 2025* \
@@ -25,7 +29,7 @@ Invited talk **[Algorithmic Aspects of Temporal Graphs ICALP workshop](https://m
 
 
 Invited talk **[M2AI 2024](https://mois-smai.math.cnrs.fr/)**, *28th November 2024* \
-"Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?" ([slides](https://docs.google.com/presentation/d/1CCwR19zU6JWZiVkXiM4qcj9ULqtfkGZF8I6LZF8xR6I/edit?usp=sharing))
+"Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?" ([slides](https://docs.google.com/presentation/d/1CCwR19zU6JWZiVkXiM4qcj9ULqtfkGZF8I6LZF8xR6I/edit?usp=sharing), [video](https://www.youtube.com/watch?v=ge1bclA-BQQ&feature=youtu.be))
 
 
 Invited talk **[Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview)**, *28th October 2024* \
