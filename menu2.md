@@ -8,7 +8,7 @@ tags = ["syntax", "code"]
 
 **Journal papers** \
 
-[*"Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"*](https://hal.science/view/index/docid/5083653)\
+[*"Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"*](https://direct.mit.edu/netn/article/doi/10.1162/netn.a.25/131329/Characterizing-dynamic-functional-connectivity)\
 Aurora Rossi,  Yanis Aeschlimann, [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en) \
 *[Network Neuroscience](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00357/119098/On-null-models-for-temporal-small-worldness-in), 2025* \
 
