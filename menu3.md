@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+**[NuMeriQS retreat](https://indico.hiskp.uni-bonn.de/event/937/)**, *17th September 2025* \
+["Graph Learning"](https://docs.google.com/presentation/d/1vl5_heEsoowNp9RR1kurW63oQIAV41zxR_6bWtLlAak/edit?usp=sharing)
+
+
 Invited talk **[JuliaCon](https://juliacon.org/2025/) at Pitt and CMU**, *25th July 2025* \
 "GraphNeuralNetworks.jl: Deep Learning on Graphs with Julia"([slides](https://docs.google.com/presentation/d/1ocgJj5jGwaa2fCtpL3GwlCl2zlS8MuTkS_P68gwuoAQ/edit?usp=sharing), [video](https://youtu.be/9JWnu5ecET8?t=12629))
 
