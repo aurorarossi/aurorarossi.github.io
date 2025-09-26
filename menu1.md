@@ -27,6 +27,7 @@ Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
 Google Summer of Code program with the Julia programming language organization. \
 Project: [*"Extending GraphNeuralNetworks.jl to support Temporal Graphs"*](https://summerofcode.withgoogle.com/archive/2023/projects/vbQaqNYW) \
 Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
+Link to the interview: [here](https://ds4h.univ-cotedazur.eu/studying-at-ds4h-graduate-school/students-story-aurora-rossi-phd-candidate)
 
 
 #### Research internship  
@@ -34,8 +35,13 @@ Mentor: [Carlo Lucibello](https://carlolucibello.github.io/) \
 Working on temporal brain networks  in [COATI](https://team.inria.fr/coati/) and [ATHENA](https://team.inria.fr/athena/) teams at [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) \
 Supervisors:  [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en)
 
+## Grants and Fellowships
+- [Docwalker program](https://ds4h.univ-cotedazur.eu/education/phd/phd-fundings/docwalker-program), *2025*.   Link to the interview: [here](https://ds4h.univ-cotedazur.eu/studying-at-ds4h-graduate-school/docwalker-2025-students-story-aurora-rossi-inria) \
+- Erasmus+ Internship Grant, *2022* \
+
+
 ## Education
-#### **PhD in Computer Science** *since 2022*
+#### **PhD in Computer Science** *2022 - 2025*
 Team: [COATI](https://team.inria.fr/coati/)  \
 Supervisor: [David Coudert](http://www-sop.inria.fr/members/David.Coudert/index.shtml)  \
 *[DS4H Université Côte d’Azur](https://ds4h.univ-cotedazur.eu/), France*
