@@ -8,7 +8,7 @@ tags = ["syntax", "code"]
 ### 2025
 
 [PhD defense](https://ds4h.univ-cotedazur.eu/theses-defense-aurora-rossi), *25th September 2025* \
-"Computational Methods and Analysis of Temporal Networks with Applications to Neuroscience"([slides](https://docs.google.com/presentation/d/1pXQvo6pD9T3akMMToZfaxPCm7sivXYwVsLb5bKz4Wdk/edit?slide=id.g364e68a0705_0_5#slide=id.g364e68a0705_0_5), video soon)
+"Computational Methods and Analysis of Temporal Networks with Applications to Neuroscience" ([slides](https://docs.google.com/presentation/d/1pXQvo6pD9T3akMMToZfaxPCm7sivXYwVsLb5bKz4Wdk/edit?slide=id.g364e68a0705_0_5#slide=id.g364e68a0705_0_5), video soon)
 
 **[NuMeriQS retreat](https://indico.hiskp.uni-bonn.de/event/937/)**, *17th September 2025* \
 ["Graph Learning"](https://docs.google.com/presentation/d/1vl5_heEsoowNp9RR1kurW63oQIAV41zxR_6bWtLlAak/edit?usp=sharing)
