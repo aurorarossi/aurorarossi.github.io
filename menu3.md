@@ -7,6 +7,9 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+[Lamarr Lecture Series](https://lamarr-institute.org/events/lecture-series-lamarr/), *14th November 2025*  \
+["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/15zgW8RP0wn3PvKst521mTZsAQNjIP0dg3T0X2PpD3wo/edit?usp=sharing)
+
 [PhD defense](https://ds4h.univ-cotedazur.eu/theses-defense-aurora-rossi), *25th September 2025* \
 "Computational Methods and Analysis of Temporal Networks with Applications to Neuroscience" ([slides](https://docs.google.com/presentation/d/1pXQvo6pD9T3akMMToZfaxPCm7sivXYwVsLb5bKz4Wdk/edit?slide=id.g364e68a0705_0_5#slide=id.g364e68a0705_0_5), [video](https://www.youtube.com/watch?v=-WM74PqyFeU))
 
