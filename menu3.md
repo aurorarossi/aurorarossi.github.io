@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2025
 
+[Group I and V Research Seminar](https://tcs.cs.uni-bonn.de/doku.php/research/seminar/ws2526) at University of Bonn, *20th November 2025*  \
+["Temporal Network Methods for Understanding Brain Dynamics"](https://docs.google.com/presentation/d/1w4Edv84NaszzNkWQM6jBevVwoXjajnX1_AzeU-7ypVQ/edit?usp=sharing)
+
+
 [Lamarr Lecture Series](https://lamarr-institute.org/events/lecture-series-lamarr/), *14th November 2025*  \
 ["Characterizing Dynamic Functional Connectivity Subnetwork Contributions in Narrative Classification with Shapley Values"](https://docs.google.com/presentation/d/15zgW8RP0wn3PvKst521mTZsAQNjIP0dg3T0X2PpD3wo/edit?usp=sharing)
 

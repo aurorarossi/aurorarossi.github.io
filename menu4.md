@@ -3,8 +3,8 @@ title = "Teaching"
 +++
 ## Supervision activity
 
-#### Undergraduate students
-
+#### Master students
+- Salma Doubali, [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif), [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia, France, 2025/2026\
 - [Sayf Eddine Halmi](https://www.linkedin.com/in/sayf-halmi/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
 - [Skander Meziou](https://www.linkedin.com/in/skander-meziou-4600412a7/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
 
