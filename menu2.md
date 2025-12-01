@@ -56,6 +56,12 @@ d’évaluation globale intégrée"*](https://roadef2023.sciencesconf.org/436893
 [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), [Hicham Lesfari](https://hlesfari.github.io/), [Emanuele Natale](https://natema.github.io/ema-webpage/), Aurora Rossi, [Paulo Serafim](https://paulobruno.github.io/) \
 *[ROADEF 2023](https://roadef2023.sciencesconf.org/), February 20th - 23rd 2023, Rennes, France* \
 
+
+**PhD Thesis** \
+
+
+[*"Computational Methods and Analysis of Temporal Networks: Applications in Neuroscience"*](https://inria.hal.science/tel-05389508)
+
 ### Posters  
 
 [*"Simulating Global Dynamics with Integrated Assessment Models"*](https://hal.science/hal-04538563v1/document)\
