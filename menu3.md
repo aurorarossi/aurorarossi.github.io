@@ -7,8 +7,8 @@ tags = ["syntax", "code"]
 
 ### 2026
 
-I3S Seminar at [Laboratory of Computer Science, Signals and Systems of Sophia Antipolis](https://www.i3s.unice.fr/en/), *11th February 2026*
-[*BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network*](https://docs.google.com/presentation/d/1ft8ZCN3l89cG1bscG4QpswHuunNVvJHH-ud6a6-tDm4/edit?usp=sharing)
+I3S Seminar at [Laboratory of Computer Science, Signals and Systems of Sophia Antipolis](https://www.i3s.unice.fr/en/), *11th February 2026* \
+["BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network"](https://docs.google.com/presentation/d/1ft8ZCN3l89cG1bscG4QpswHuunNVvJHH-ud6a6-tDm4/edit?usp=sharing)
 
 ### 2025
 
