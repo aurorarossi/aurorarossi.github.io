@@ -6,6 +6,12 @@ tags = ["syntax", "code"]
 
 ## Publications
 
+**Preprints** \
+
+
+[*BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network*](https://arxiv.org/abs/2602.09716)\
+Justin Dachille, Aurora Rossi, Sunil Kumar Maurya, Frederik Mallmann-Trenn, Xin Liu, Frédéric Giroire, Tsuyoshi Murata, Emanuele Natale
+
 **Journal papers** \
 
 

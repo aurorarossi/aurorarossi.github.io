@@ -5,6 +5,11 @@ tags = ["syntax", "code"]
 +++
 ## Talks
 
+### 2026
+
+I3S Seminar at [Laboratory of Computer Science, Signals and Systems of Sophia Antipolis](https://www.i3s.unice.fr/en/), *11th February 2026*
+[*BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network*](https://docs.google.com/presentation/d/1ft8ZCN3l89cG1bscG4QpswHuunNVvJHH-ud6a6-tDm4/edit?usp=sharing)
+
 ### 2025
 
 [Group I and V Research Seminar](https://tcs.cs.uni-bonn.de/doku.php/research/seminar/ws2526) at University of Bonn, *20th November 2025*  \
