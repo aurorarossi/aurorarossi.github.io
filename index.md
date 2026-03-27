@@ -3,7 +3,7 @@
 
 ## Hello!
 
-#### I'm *Aurora Rossi*.
+### I'm *Aurora Rossi*. 
 
 
 I'm a Postdoctoral Researcher at the [University of Bonn](https://www.uni-bonn.de/) and [Lamarr Institute](https://lamarr-institute.org/) in the group of [Prof. Dr. Petra Mutzel](https://www.ai.uni-bonn.de/mutzel).
@@ -20,7 +20,12 @@ I completed my PhD at [DS4H Université Côte d’Azur](https://ds4h.univ-coteda
 
 My research focuses on graph theory and graph-based machine learning, with applications in chemistry and neuroscience.
 
-#### Contact
+### News
+
+- 23 March 2026: I have obtained the **French National Qualification for Associate Professor** (Maître de Conférences).
+- 19 March 2026: My PhD thesis received the **Special Award for Interdisciplinarity** from the École Doctorale STIC. 
+
+### Contact
 Github username: [@aurorarossi](https://github.com/aurorarossi)
 
 E-mail: arossi (at) uni-bonn.de 

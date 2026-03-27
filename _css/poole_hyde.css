@@ -258,7 +258,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, 0.5);
-  background-color: #e89abc;
+  background-color: #003560;
 }
 
 @media (min-width: 768px) {
@@ -333,8 +333,11 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 768px) {
   .content {
-    max-width: 45rem;
-    margin-left: 15rem;
+    max-width: 64rem;
+    margin-left: 14rem;
     margin-right: 2rem;
   }
 }
+
+
+

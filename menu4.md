@@ -4,12 +4,16 @@ title = "Teaching"
 ## Supervision activity
 
 #### Master students
-- Salma Doubali, [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif), [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia, France, 2025/2026\
-- [Sayf Eddine Halmi](https://www.linkedin.com/in/sayf-halmi/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
-- [Skander Meziou](https://www.linkedin.com/in/skander-meziou-4600412a7/?originalSubdomain=fr), Polytech Nice Sophia, France, 2025\
+- Salma Doubali (2025/2026) from [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia: Personal Project in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale.  Topic: [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif),  \
 
+- [Sayf Halmi](https://www.linkedin.com/in/sayf-halmi/?originalSubdomain=fr) and [Skander Meziou](https://www.linkedin.com/in/skander-meziou-4600412a7/?originalSubdomain=fr) (2024–2025) from Polytech Nice Sophia: Personal Project and internship in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Nicolas Nisse. Topic: Analysis of interdisciplinary research impact on PhD students.
 
 ## Teaching 
+
+**Lab Computational Analytics: Open-Source Graph Software Engineering**  *April-September 2026* \
+Website: [link](https://ca.cs.uni-bonn.de/doku.php?id=teaching:ss26:lab_ca) \
+Github organization: [Lab-CA-SS26](https://github.com/Lab-CA-SS26) \
+*University of Bonn, Bonn, Germany*
 
 **Operations Research Teacher** *February and April 2025* \
 Hours: 31 \
