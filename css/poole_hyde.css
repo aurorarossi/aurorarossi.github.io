@@ -68,7 +68,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #003560;
+  color: #e89abc;
   text-decoration: none;
 }
 
@@ -333,8 +333,11 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 768px) {
   .content {
-    max-width: 45rem;
-    margin-left: 15rem;
+    max-width: 64rem;
+    margin-left: 14rem;
     margin-right: 2rem;
   }
 }
+
+
+
