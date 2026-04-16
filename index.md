@@ -22,6 +22,8 @@ My research focuses on graph theory and graph-based machine learning, with appli
 
 ### News
 
+- April 2026: I am the **Website Chair** of the [Learning on Graphs conference (LoG 2026)](https://logconference.org)
+- March 2026: I am **PC member** of the [International Conference on Complex Networks and their Applications (Complex Networks 2026)](https://complexnetworks.org/)
 - 23 March 2026: I have obtained the **French National Qualification for Associate Professor** (Maître de Conférences).
 - 19 March 2026: My PhD thesis received the **Special Award for Interdisciplinarity** from the École Doctorale STIC. 
 

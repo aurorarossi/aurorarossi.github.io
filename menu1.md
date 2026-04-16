@@ -27,6 +27,10 @@ I review for the following **conferences**: \
 - PC member for the **[International Conference on Complex Networks and their Applications](https://complexnetworks.org/)**.
 - JuliaCon 2024, 2025, 2026, the annual conference of the Julia programming language community.
 
+I am in the organizing committee of the following conferences: \
+
+- **[Learning on Graphs conference (LoG 2026)](https://logconference.org)**, where I am the Website Chair. 
+
 ## Mobility fellowships and visiting researcher activity
 #### Research visits at Coati team at Centre Inria d’Université Côte d’Azur (31 January-13 February 2026)
  I visited the Centre Inria d’Université Côte d’Azur for two weeks. I was hosted by Coati team and, together with Frédéric
