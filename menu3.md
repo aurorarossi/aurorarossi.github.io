@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+
+Invited talk [Dagstuhl Seminar 26251: Temporal Graphs](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/26251), *16th June 2026*  \
+["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1U8RUDzl8tbN1COAauATXTF1Vl4WeUjQGu1UGDEFM1Vw/edit?usp=sharing)
+
 [Group I and V Research Seminar](https://tcs.cs.uni-bonn.de/doku.php/research/seminar/ss26) at University of Bonn, *11th June 2026*  \
 ["BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network"](https://docs.google.com/presentation/d/1i8_K0SxjpG-s73PAm1oMhlVoQG9JaQ2iDx9W_VBgreQ/edit?usp=sharing)
 

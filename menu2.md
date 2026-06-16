@@ -43,9 +43,11 @@ Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations
 
 **Conference papers**  \
 
+
 [*"La vie risquée mais enrichissante d'un doctorant interdisciplinaire: accrochez-vous, une seule publication suffit!"*](https://hal.science/hal-05598152/document) \
 Sayf Halmi, Aurora Rossi, Frédéric Giroire, Nicolas Nisse, Michele Pezzoni \
 *[ALGOTEL 2026](https://algotel-cores26.sciencesconf.org), June 2026, Mandelieu-la-Napoule, France* \
+
 
 [Extended abstract: *"Understanding the Importance of Brain Subnetworks with Shapley Values During Narrative Processing"*](https://hal.science/hal-04723178v1/document)\
 Aurora Rossi,  Yanis Aeschlimann, [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Peter Ford Dominey](https://scholar.google.com/citations?user=plk1bUYAAAAJ&hl=en) \
