@@ -7,6 +7,9 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+["Henzinger Monika Group Seminar"](https://ista.ac.at/en/research/henzinger_monika-group/), *26th June 2026*  \
+["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1zdvlJnp8TwjTBEMp3hs9KyWi_kAwgUUroA6qNaBOKSI/edit?usp=sharing)
+
 
 Invited talk [Dagstuhl Seminar 26251: Temporal Graphs](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/26251), *16th June 2026*  \
 ["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1U8RUDzl8tbN1COAauATXTF1Vl4WeUjQGu1UGDEFM1Vw/edit?usp=sharing)

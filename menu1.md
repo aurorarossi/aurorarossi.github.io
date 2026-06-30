@@ -24,6 +24,7 @@ I review for the following **journals**:
 - *The Journal of Physical Chemistry* (American Chemical Society), ISSN: 1520-5215.
 I review for the following **conferences**: \
 
+- CIKM 2026, the 35th ACM International Conference on Knowledge and Information Management.
 - PC member for the **[International Conference on Complex Networks and their Applications](https://complexnetworks.org/)**.
 - JuliaCon 2024, 2025, 2026, the annual conference of the Julia programming language community.
 
@@ -32,18 +33,22 @@ I am in the organizing committee of the following conferences: \
 - **[Learning on Graphs conference (LoG 2026)](https://logconference.org)**, where I am the Website Chair. 
 
 ## Mobility fellowships and visiting researcher activity
-#### Research visits at Coati team at Centre Inria d’Université Côte d’Azur (31 January-13 February 2026)
+
+#### Research visit at ISTA (Institute of Science and Technology Austria) (24-28 June 2026)
+I visited ISTA and I was hosted by Frederick Malmann-Trenn.
+
+#### Research visit at Coati team at Centre Inria d’Université Côte d’Azur (31 January-13 February 2026)
  I visited the Centre Inria d’Université Côte d’Azur for two weeks. I was hosted by Coati team and, together with Frédéric
 Giroire, Nicolas Nisse and Sayf Halmi, we worked on the analysis of the impact of interdisciplinary research on PhD
 students’ careers, in collaboration with Michele Pezzoni from Gredeg at Université Côte d’Azur.
-#### Invited research visits at King’s College London (22-28 November 2025)
+#### Invited research visit at King’s College London (22-28 November 2025)
  I was invited for a week to visit the group of Frederick Malmann-Trenn at King’s College London. We advanced the collaboration with Japanese researchers on the improvement of a graph neural network architecture for centrality measures approximation.
-#### Research visits at Department of Psychological Science, Birkbeck University London (27 May - 14 June 2024)
+#### Research visit at Department of Psychological Science, Birkbeck University London (27 May - 14 June 2024)
 I visited the Department of Psychological Science at Birkbeck University London for three weeks. I was hosted by
 Silvia Seghezzi and we focused on analyzing brain processing of problem-solving tasks via EEG.
 #### DocWalker Fellowship (funded by Université Côte d’Azur, 12 May - 6 July 2025)
 Funded a two-month research stay at the Institute of Science Tokyo. I visited the group of Tsuyoshi Murata and we worked on the development of a new graph neural network architecture for betweenneess centrality approximation.
-#### Research visits at Gran Sasso Science Institute (13-18 November 2023)
+#### Research visit at Gran Sasso Science Institute (13-18 November 2023)
  I visited the Gran Sasso Science Institute for one week. I was hosted by Pierluigi Crescenzi and we worked on the development of a software package supporting the construction and simulation of Integrated Assessment Models (IAMs).
 #### Erasmus+ Scholarship (February - July 2022)
 Funded a six-month Master’s research internship at Université Côte
