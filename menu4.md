@@ -62,5 +62,5 @@ Master's degree in Computer Science  \
 **[Linear Algebra](https://www.corsi.univr.it/?ent=cs&id=419&menu=studiare&tab=insegnamenti&codiceCs=S23&codins=10018&crediti=6.0&aa=2020/2021&lang=en) Tutor** *November 2020 - January 2021*  \
 Supervisor: [Enrico Gregorio](https://www.di.univr.it/?ent=persona&id=88)  \
 Hours: 24   \
- Bachelor's degree in Bionformatics
+ Bachelor's degree in Bioinformatics
 *University of Verona, Italy*

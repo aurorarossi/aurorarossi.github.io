@@ -6,7 +6,7 @@ tags = ["syntax", "code"]
 
 ## Awards and Honors
 
-##### EDSTIC Special Award for Interdisciplinarity (2026)
+#### EDSTIC Special Award for Interdisciplinarity (2026)
  Awarded by the École Doctorale STIC (EDSTIC) of Université Côte d’Azur and Paris Sciences et Lettres for my PhD thesis on *"Computational Methods and Analysis of Temporal Networks: Applications in Neuroscience"*. This  award recognizes outstanding doctoral research in the
 field of Computer Science and interdisciplinary contributions to the scientific community. 
 #### Invited participant Dagstuhl Seminar on "Temporal Graphs: Structure, Algorithms, Applications" (2026)
@@ -20,7 +20,7 @@ I review for the following **journals**:
 
 - *Network Neuroscience Journal* (MIT Press), ISSN: 2472-1751.
 - *Computer Communications* (Elsevier), ISSN: 0140-3664.
-- *Journal of Open Source Software* (NumFCOUS), ISSN: 2475-9066. Reviews are publicly available, see [here](https://joss.theoj.org/papers/reviewed_by/@aurorarossi) my reviews.
+- *Journal of Open Source Software* (NumFOCUS), ISSN: 2475-9066. My reviews are publicly available [here](https://joss.theoj.org/papers/reviewed_by/@aurorarossi).
 - *The Journal of Physical Chemistry* (American Chemical Society), ISSN: 1520-5215.
 I review for the following **conferences**: \
 
@@ -33,6 +33,9 @@ I am in the organizing committee of the following conferences: \
 - **[Learning on Graphs conference (LoG 2026)](https://logconference.org)**, where I am the Website Chair. 
 
 ## Mobility fellowships and visiting researcher activity
+
+#### Research visit at University of Tor Vergata, Rome (Italy) (12–18 July 2026)
+I visited the University of Tor Vergata and gave an introduction to graph neural networks and temporal graph neural networks at the Department of Mathematics.
 
 #### Research visit at ISTA (Institute of Science and Technology Austria) (24-28 June 2026)
 I visited ISTA and I was hosted by Frederick Malmann-Trenn.
@@ -47,7 +50,7 @@ students’ careers, in collaboration with Michele Pezzoni from Gredeg at Univer
 I visited the Department of Psychological Science at Birkbeck University London for three weeks. I was hosted by
 Silvia Seghezzi and we focused on analyzing brain processing of problem-solving tasks via EEG.
 #### DocWalker Fellowship (funded by Université Côte d’Azur, 12 May - 6 July 2025)
-Funded a two-month research stay at the Institute of Science Tokyo. I visited the group of Tsuyoshi Murata and we worked on the development of a new graph neural network architecture for betweenneess centrality approximation.
+Funded a two-month research stay at the Institute of Science Tokyo. I visited the group of Tsuyoshi Murata and we worked on the development of a new graph neural network architecture for betweenness centrality approximation.
 #### Research visit at Gran Sasso Science Institute (13-18 November 2023)
  I visited the Gran Sasso Science Institute for one week. I was hosted by Pierluigi Crescenzi and we worked on the development of a software package supporting the construction and simulation of Integrated Assessment Models (IAMs).
 #### Erasmus+ Scholarship (February - July 2022)

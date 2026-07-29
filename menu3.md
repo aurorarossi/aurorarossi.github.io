@@ -7,6 +7,10 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+["Department of Mathematics"](https://web.uniroma2.it/en/contenuto/department_of_mathematics) at University of Rome "Tor Vergata", *15th July 2026*  \
+["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/18p4ZEBGch6Y-D4qzGzOO4wExPhoDlb_NRyp34PHfpcM/edit?usp=sharing)
+
+
 ["Henzinger Monika Group Seminar"](https://ista.ac.at/en/research/henzinger_monika-group/), *26th June 2026*  \
 ["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1zdvlJnp8TwjTBEMp3hs9KyWi_kAwgUUroA6qNaBOKSI/edit?usp=sharing)
 
@@ -92,10 +96,10 @@ Invited talk **Café Julia** *15th September 2023* \
 **[JuliaCon](https://juliacon.org/2023/) at MIT** *27th July 2023* \
 ["Graph alignment problem within GraphsOptim.jl"](https://pretalx.com/juliacon2023/speaker/JYWQL7/) ([slides](https://www.dropbox.com/scl/fi/5bmty02spntuo81kd4tus/GraphMatching.pdf?rlkey=w2z65wrz42sm55iqzkib30v9j&dl=0), [video](https://www.youtube.com/watch?v=a9Jw0LnHuGI))
 
-**[Julia day](https://project.inria.fr/jjinria/) at Inria** *12nd January 2023*  \
+**[Julia day](https://project.inria.fr/jjinria/) at Inria** *12th January 2023*  \
 ["Presentation of WorldDynamics.jl"](https://www.dropbox.com/s/k2diduuny307ivp/worlddynamics_juliahalf-day.pdf?dl=0)
 
 ### 2022
 
-**[COATI](https://team.inria.fr/coati/) seminar** *13rd July 2022*  \
+**[COATI](https://team.inria.fr/coati/) seminar** *13th July 2022*  \
 ["Temporal Brain Networks: bridging Theory and Real Data"](https://www.dropbox.com/s/kdacixjmbyex6lq/COATISeminar_compressed.pdf?dl=0)
