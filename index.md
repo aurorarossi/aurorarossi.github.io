@@ -21,6 +21,7 @@ My research focuses on graph theory and graph-based machine learning, with appli
 ~~~
 <div class="news-box" tabindex="0" role="region" aria-labelledby="news">
 ~~~
+- August 2026: Our paper [*"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*](https://inria.hal.science/hal-05502800) has been accepted at the [The 35th ACM International Conference on Knowledge and Information Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it). 
 - July 2026: I’m happy to welcome [Justin Dachille](https://justindachille.github.io) to the [Computational Analytics group](https://ca.cs.uni-bonn.de/doku.php?id=ags:coan). Starting in September, he will join us for a one-year research stay funded by the DAAD under my supervision.
 - April 2026: I am the **Website Chair** of the [Learning on Graphs conference (LoG 2026)](https://logconference.org)
 - March 2026: I am **PC member** of the [International Conference on Complex Networks and their Applications (Complex Networks 2026)](https://complexnetworks.org/)

@@ -6,11 +6,6 @@ tags = ["syntax", "code"]
 
 ## Publications
 
-**Preprints** \
-
-
-[*"BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network"*](https://arxiv.org/abs/2602.09716)\
-Justin Dachille, Aurora Rossi, Sunil Kumar Maurya, Frederik Mallmann-Trenn, Xin Liu, Frédéric Giroire, Tsuyoshi Murata, Emanuele Natale
 
 **Journal papers** \
 
@@ -42,6 +37,11 @@ Aurora Rossi, [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations
 
 
 **Conference papers**  \
+
+
+[*"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*](https://inria.hal.science/hal-05502800)\
+Justin Dachille, Aurora Rossi, Sunil Kumar Maurya, Frederik Mallmann-Trenn, Xin Liu, Frédéric Giroire, Tsuyoshi Murata, Emanuele Natale \
+*[The 35th ACM International Conference on Knowledge and Information Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it)*, November 7th - 11th 2026, Rome, Italy \
 
 
 [*"La vie risquée mais enrichissante d'un doctorant interdisciplinaire: accrochez-vous, une seule publication suffit!"*](https://hal.science/hal-05598152/document) \
