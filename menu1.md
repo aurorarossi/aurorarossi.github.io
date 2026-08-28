@@ -31,6 +31,7 @@ I review for the following **conferences**: \
 I am in the organizing committee of the following conferences: \
 
 - **[Learning on Graphs conference (LoG 2026)](https://logconference.org)**, where I am the Website Chair. 
+- **[JuliaCon Global 2027](https://juliacon.org/)**, where I am a member of the Organizing Committee.
 
 ## Mobility fellowships and visiting researcher activity
 
