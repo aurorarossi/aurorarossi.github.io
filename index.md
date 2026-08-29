@@ -14,7 +14,7 @@ I'm a Postdoctoral Researcher at the [University of Bonn](https://www.uni-bonn.d
 
 I completed my PhD at [DS4H Université Côte d’Azur](https://ds4h.univ-cotedazur.eu/) in the [COATI](https://team.inria.fr/coati/) project joint-team between [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en) under the supervision of [David Coudert, DR](http://www-sop.inria.fr/members/David.Coudert/index.shtml). 
 
-My research focuses on graph theory and graph-based machine learning, with applications in chemistry and neuroscience.
+My research focuses on graph theory and graph-based machine learning, with applications in neuroscience.
 
 ### News
 
