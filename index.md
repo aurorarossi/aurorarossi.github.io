@@ -9,7 +9,7 @@
 <img class="profile-avatar" src="cropped_image.png" alt="Portrait of Aurora Rossi" />
 ~~~
 
-I'm a Postdoctoral Researcher at the [University of Bonn](https://www.uni-bonn.de/) and [Lamarr Institute](https://lamarr-institute.org/) in the [Computational Analytics](https://ca.cs.uni-bonn.de/doku.php?id=ags:coan) group of [Prof. Dr. Petra Mutzel](https://www.ai.uni-bonn.de/mutzel).
+I'm a Postdoctoral Researcher at the [University of Bonn](https://www.uni-bonn.de/) and [Lamarr Institute](https://lamarr-institute.org/) in the [Computational Analytics](https://ca.cs.uni-bonn.de/doku.php?id=ags:coan) group of [Prof. Dr. Petra Mutzel](https://ca.cs.uni-bonn.de/doku.php?id=people:mutzel).
 
 
 I completed my PhD at [DS4H Université Côte d’Azur](https://ds4h.univ-cotedazur.eu/) in the [COATI](https://team.inria.fr/coati/) project joint-team between [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en) under the supervision of [David Coudert, DR](http://www-sop.inria.fr/members/David.Coudert/index.shtml). 
