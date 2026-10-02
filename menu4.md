@@ -3,6 +3,9 @@ title = "Teaching"
 +++
 ## Supervision activity
 
+#### PhD students
+- [Justin Dachille](https://justindachille.github.io), Université Côte d’Azur, France: PhD student in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale. Spending one year in the Computational Analytics group at University of Bonn under my supervision thanks to a DAAD Research Fellowship.
+
 #### Master students
 - Salma Doubali (2025/2026) from [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia: Personal Project in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale.  Topic: [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif),  \
 
