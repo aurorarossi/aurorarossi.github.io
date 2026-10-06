@@ -226,6 +226,121 @@ td {
   padding-left: 1.25rem;
 }
 
+/* Research project groups: one box per research line, one row per project. */
+.franklin-content .project-group {
+  margin: 1rem 0 1.25rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid #b7cee3;
+  border-left: 4px solid #004e9f;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.franklin-content .project-group > h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1.2rem;
+  color: #004e9f;
+}
+
+.franklin-content .project {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  padding: 0.9rem 0;
+  border-top: 1px solid #e6eef6;
+}
+
+.franklin-content .project-group > h3 + .project {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.franklin-content .project:last-child {
+  padding-bottom: 0;
+}
+
+
+.franklin-content .project-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 110px;
+  padding: 0.4rem;
+  border-radius: 6px;
+  background: #fff;
+  border: 1px solid #e6eef6;
+}
+
+.franklin-content .project-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding-left: 0;
+}
+
+.franklin-content .project-img img.logo-small {
+  width: 60%;
+  height: 60%;
+}
+
+.franklin-content .project h4 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+}
+
+.franklin-content .project p {
+  margin: 0 0 0.6rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+/* Small link badges for papers and projects. */
+.franklin-content .badges a,
+.franklin-content .pub-links a {
+  display: inline-block;
+  margin: 0.15rem 0.3rem 0.15rem 0;
+  padding: 0.05rem 0.55rem;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  border: 1px solid #b7cee3;
+  border-radius: 999px;
+  background: #f7fbff;
+  text-decoration: none;
+}
+
+.franklin-content .badges a:hover,
+.franklin-content .pub-links a:hover {
+  background: #004e9f;
+  border-color: #004e9f;
+  color: #fff;
+}
+
+.franklin-content .pub {
+  margin-bottom: 1.1rem;
+}
+
+.franklin-content .pub p {
+  margin-bottom: 0.2rem;
+}
+
+.franklin-content .pub-links p {
+  margin: 0;
+}
+
+@media (max-width: 620px) {
+  .franklin-content .project-group {
+    padding: 0.9rem 1rem;
+  }
+  .franklin-content .project {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  .franklin-content .project-img {
+    height: 160px;
+  }
+}
+
 /* ==================================================================
     HYPERREFS AND FOOTNOTES
 ================================================================== */
