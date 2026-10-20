@@ -7,6 +7,9 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+**[NuMeriQS retreat](https://indico.hiskp.uni-bonn.de/event/1615/)**, *20th October 2026* \
+["Temporal Graph Analysis of Molecular Simulations: From Descriptors to Similarity"](https://docs.google.com/presentation/d/1sqo3sgAs60djJ-V0Dx41a_5xHkq2bUH1viznE-b6UdE/edit?usp=sharing)
+
 ["Department of Mathematics"](https://web.uniroma2.it/en/contenuto/department_of_mathematics) at University of Rome "Tor Vergata", *15th July 2026*  \
 ["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/18p4ZEBGch6Y-D4qzGzOO4wExPhoDlb_NRyp34PHfpcM/edit?usp=sharing)
 
