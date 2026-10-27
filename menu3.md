@@ -7,6 +7,9 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+[Computer Science Seminar at Gran Sasso Science Institute](https://www.gssi.it/en/), *28th October 2026* \
+["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1mCbKjXYj6ryGU3Om5cAObkwWJdOi7vBLkf7uuj46pEs/edit?usp=sharing)
+
 **[NuMeriQS retreat](https://indico.hiskp.uni-bonn.de/event/1615/)**, *20th October 2026* \
 ["Temporal Graph Analysis of Molecular Simulations: From Descriptors to Similarity"](https://docs.google.com/presentation/d/1sqo3sgAs60djJ-V0Dx41a_5xHkq2bUH1viznE-b6UdE/edit?usp=sharing)
 
