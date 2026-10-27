@@ -1,5 +1,5 @@
 +++
-title = "Curriculum"
+title = "Curriculum Vitae"
 hascode = true
 tags = ["syntax", "code"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Teaching"
+title = "Teaching & Supervision"
 +++
 ## Supervision activity
 
@@ -7,9 +7,17 @@ title = "Teaching"
 - [Justin Dachille](https://justindachille.github.io), Université Côte d’Azur, France: PhD student in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale. Spending one year in the Computational Analytics group at University of Bonn under my supervision thanks to a DAAD Research Fellowship.
 
 #### Master students
-- Salma Doubali (2025/2026) from [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia: Personal Project in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale.  Topic: [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif),  \
+
+- Tatiana Zakharova (2026-2027) from [University of Bonn - Computer Science Master](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs). Project: *"Temporal Betweenness Centrality Approximation with Graph Neural Networks"*.
+
+- Jonas Handwerker (2026-2027) from [University of Bonn - Computer Science Master](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs). Master thesis: *"Integer Linear Programming Formulations for the Maximum Common Subgraph Problem"*.
+
+- Salma Doubali (2025-2026) from [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia: Personal Project in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale.  Topic: [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif),  \
 
 - [Sayf Halmi](https://www.linkedin.com/in/sayf-halmi/?originalSubdomain=fr) and [Skander Meziou](https://www.linkedin.com/in/skander-meziou-4600412a7/?originalSubdomain=fr) (2024–2025) from Polytech Nice Sophia: Personal Project and internship in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Nicolas Nisse. Topic: Analysis of interdisciplinary research impact on PhD students.
+
+#### PhD thesis reviewing
+- Filippos Christodoulou (2026), [Gran Sasso Science Institute (GSSI)](https://www.gssi.it), L'Aquila, Italy: external reviewer of the PhD thesis, appointed with special approval of the GSSI board. Supervisor: Nicolas Troquard; co-supervisors: Dimitrios Thilikos and Gianlorenzo D'Angelo. Thesis: *"Width-Based Parameterized Algorithms and GNN Centrality Prediction in Temporal Graphs"*.
 
 ## Teaching 
 
