@@ -35,6 +35,15 @@ I am in the organizing committee of the following conferences: \
 
 ## Mobility fellowships and visiting researcher activity
 
+#### CIKM 2026, Rome (Italy) (9-11 November 2026)
+I will attend [The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it) to present our paper *"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*.
+
+#### Invited research visit at Gran Sasso Science Institute (26-29 October 2026)
+I was invited to visit the Gran Sasso Science Institute, where I gave a talk at the Computer Science Seminar and took part in the PhD defense of Filippos Christodoulou.
+
+#### Workshop on Distributed Computing, Optimization & Learning, Nicosia (Cyprus) (14-16 October 2026)
+I participated in the [Workshop on Distributed Computing, Optimization & Learning (WDCL 2026)](https://themistoklis.org/wdcl2026/index.html) held at the University of Cyprus.
+
 #### Research visit at University of Tor Vergata, Rome (Italy) (12–18 July 2026)
 I visited the University of Tor Vergata and gave an introduction to graph neural networks and temporal graph neural networks at the Department of Mathematics.
 
