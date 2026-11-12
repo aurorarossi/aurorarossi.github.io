@@ -21,6 +21,9 @@ My research focuses on graph theory and graph-based machine learning, with appli
 ~~~
 <div class="news-box" tabindex="0" role="region" aria-labelledby="news">
 ~~~
+- November 2026: I received funding from the University of Bonn [STEP program](https://www.chancengerechtigkeit.uni-bonn.de/en/support-programs/step-program/step-program) for a two-month research stay at the [Institute of Science Tokyo](https://www.isct.ac.jp/en) in the [group of Prof. Tsuyoshi Murata](https://www.net.c.titech.ac.jp) (January–March 2027).
+- November 2026: I served as **Session Chair** for the session *"Urban Spatio-Temporal Learning"* at [CIKM 2026](https://cikm2026.diag.uniroma1.it/program/) in Rome.
+- October 2026: I started supervising the Master's thesis of Jonas Handwerker on *"Maximum Common Subgraphs with Integer Linear Programming"*.
 - August 2026: Our paper [*"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*](https://inria.hal.science/hal-05502800) has been accepted at [The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it). I have also joined the [JuliaCon Global 2027 Organizing Committee](https://juliacon.org/2027/committee/) as Outreach Chair.
 - July 2026: I’m happy to welcome [Justin Dachille](https://justindachille.github.io) to the [Computational Analytics group](https://ca.cs.uni-bonn.de/doku.php?id=ags:coan). Starting in September, he will join us for a one-year research stay funded by the DAAD under my supervision.
 - April 2026: I am the **Website Chair** of the [Learning on Graphs conference (LoG 2026)](https://logconference.org)

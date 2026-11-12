@@ -10,7 +10,7 @@ title = "Teaching & Supervision"
 
 - Tatiana Zakharova (2026-2027) from [University of Bonn - Computer Science Master](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs). Project: *"Temporal Betweenness Centrality Approximation with Graph Neural Networks"*.
 
-- Jonas Handwerker (2026-2027) from [University of Bonn - Computer Science Master](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs). Master thesis: *"Integer Linear Programming Formulations for the Maximum Common Subgraph Problem"*.
+- Jonas Handwerker (2026-2027) from [University of Bonn - Computer Science Master](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs). Master thesis: *"Maximum Common Subgraphs with Integer Linear Programming"*.
 
 - Salma Doubali (2025-2026) from [Ubinet - Computer Science Master](https://ubinet.univ-cotedazur.fr) , Polytech Nice Sophia: Personal Project in the Coati team at Centre Inria d’Université Côte d’Azur, co-supervised with Frédéric Giroire and Emanuele Natale.  Topic: [*"Approximating Graph Centrality Measures Project"*](https://sites.google.com/view/ubinet-projects-list#h.6j104s8ddpif),  \
 

@@ -33,10 +33,17 @@ I am in the organizing committee of the following conferences: \
 - **[Learning on Graphs conference (LoG 2026)](https://logconference.org)**, where I am the Website Chair. 
 - **[JuliaCon Global 2027](https://juliacon.org/)**, where I am the Outreach Chair.
 
+I served as **session chair** at the following conferences: \
+
+- **[CIKM 2026](https://cikm2026.diag.uniroma1.it/program/)**, session *"Urban Spatio-Temporal Learning"*.
+
 ## Mobility fellowships and visiting researcher activity
 
+#### STEP program (funded by University of Bonn, 10 January - 10 March 2027)
+Funded a two-month research stay at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), where I will visit the [group of Tsuyoshi Murata](https://www.net.c.titech.ac.jp).
+
 #### CIKM 2026, Rome (Italy) (9-11 November 2026)
-I will attend [The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it) to present our paper *"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*.
+I attended [The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)](https://cikm2026.diag.uniroma1.it) to present our paper *"Degree-Mass Message Passing for Betweenness Ranking in Directed and Undirected Networks"*.
 
 #### Invited research visit at Gran Sasso Science Institute (26-29 October 2026)
 I was invited to visit the Gran Sasso Science Institute, where I gave a talk at the Computer Science Seminar and took part in the PhD defense of Filippos Christodoulou.

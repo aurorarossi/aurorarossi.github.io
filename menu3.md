@@ -7,6 +7,9 @@ tags = ["syntax", "code"]
 
 ### 2026
 
+[MIND team](https://mind.gitlabpages.inria.fr/team_page/) seminar at Inria Saclay, *3rd November 2026* \
+["Understanding Brain Dynamics through Temporal Networks and Machine Learning"](https://docs.google.com/presentation/d/1Q-Q3u3kyhpvONQJMezv4xVTfhfeo3AZrVTmvQJd4uMc/edit?usp=sharing)
+
 [Computer Science Seminar at Gran Sasso Science Institute](https://www.gssi.it/en/), *28th October 2026* \
 ["An Introduction to Temporal Graph Neural Networks"](https://docs.google.com/presentation/d/1mCbKjXYj6ryGU3Om5cAObkwWJdOi7vBLkf7uuj46pEs/edit?usp=sharing)
 
